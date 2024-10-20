@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.93eecf07.css",
-    "main.js": "/static/js/main.377045ce.js",
-    "static/media/Complete.svg": "/static/media/Complete.3b0d0db860a278461128d7247b8b75ef.svg",
-    "index.html": "/index.html",
-    "static/media/Delete.svg": "/static/media/Delete.9ef277bee180eb89a5ee3457bec1c062.svg",
-    "main.93eecf07.css.map": "/static/css/main.93eecf07.css.map",
-    "main.377045ce.js.map": "/static/js/main.377045ce.js.map"
+    "main.css": "/my_react_TodoMachine/static/css/main.93eecf07.css",
+    "main.js": "/my_react_TodoMachine/static/js/main.c703973a.js",
+    "static/media/Complete.svg": "/my_react_TodoMachine/static/media/Complete.3b0d0db860a278461128d7247b8b75ef.svg",
+    "index.html": "/my_react_TodoMachine/index.html",
+    "static/media/Delete.svg": "/my_react_TodoMachine/static/media/Delete.9ef277bee180eb89a5ee3457bec1c062.svg",
+    "main.93eecf07.css.map": "/my_react_TodoMachine/static/css/main.93eecf07.css.map",
+    "main.c703973a.js.map": "/my_react_TodoMachine/static/js/main.c703973a.js.map"
   },
   "entrypoints": [
     "static/css/main.93eecf07.css",
-    "static/js/main.377045ce.js"
+    "static/js/main.c703973a.js"
   ]
 }
