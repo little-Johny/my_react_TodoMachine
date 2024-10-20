@@ -1,0 +1,26 @@
+:root{
+    --rojo-100:#A1232B;
+    --rojo-50:#F4B8B8;
+    --rojo-25:#F6C6C6;
+    --negro-100:#1A1A1A;
+    --negro-75:#3A3A3A;
+    --negro-50:#C2C2C2;
+    --negro-25:#E0E0E0;
+    --azul-100: #0073E6;
+    --azul-50: #80BFFF ;
+}
+
+.TodoTitle{
+    font-size: 32px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0 16px 24px 16px;
+    padding: 48px;
+    color:var(--rojo-100);
+    border: 4px solid var(--rojo-100);
+    border-radius: 20px;
+}
+
+.TodoTitle span{
+    font-weight: bold;
+}
